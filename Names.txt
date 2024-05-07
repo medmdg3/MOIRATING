@@ -1,0 +1,28 @@
+1	Riad Solh Ayman
+2	Benkhdra Mehdi
+3	Yassir Salama
+4	Bentayebi Haitam
+5	BERAHMA Hamza
+6	TALIUAN oussama
+7	Ben El Fakir Oussama
+8	cherki Mohammed
+9	khald sami
+10	BOUNAIM Moataz
+11	Aabkari Ismail
+12	Lamnaouar Abdelhakim
+13	Boumhaout Youssef
+14	Kassimi Mouad
+15	Amoussaoui youssef
+16	Bachiri Mehdi
+17	El Habra Badreddine
+18	Taaloucht Hamza
+19	Amezzargou Reda
+20	BOUBCHER Issam
+21	Koussaimi Abdelali
+22	idwy samia
+23	El achhab Walid
+24	KAZAY Anas
+25	Laamoum Walae
+26	Guejaj Mohammed Rayane
+27	El Hakour  Abdessalam
+28	Outidli Sami

@@ -1,0 +1,28 @@
+12
+1	Riad Solh Ayman 	1014	2029	1.00
+2	Yassir Salama 	910	1821	1.00
+3	Benkhdra Mehdi 	856	1713	1.00
+4	Ben El Fakir Oussama 	816	1632	1.00
+5	Kassimi Mouad 	782	1564	1.00
+6	khald sami 	750	1500	1.00
+7	Lamnaouar Abdelhakim 	718	1436	1.00
+8	Bentayebi Haitam 	684	1368	1.00
+9	Bachiri Mehdi 	644	1287	1.00
+10	Laamoum Walae 	590	1179	1.00
+11	El Habra Badreddine 	486	971	1.00
+12	El Hakour Abdessalam 	0	1500	0.00
+12	Guejaj Mohammed Rayane 	0	1500	0.00
+12	KAZAY Anas 	0	1500	0.00
+12	El achhab Walid 	0	1500	0.00
+12	idwy samia 	0	1500	0.00
+12	Koussaimi Abdelali 	0	1500	0.00
+12	BOUBCHER Issam 	0	1500	0.00
+12	Amezzargou Reda 	0	1500	0.00
+12	Taaloucht Hamza 	0	1500	0.00
+12	Amoussaoui youssef 	0	1500	0.00
+12	Boumhaout Youssef 	0	1500	0.00
+12	Aabkari Ismail 	0	1500	0.00
+12	BOUNAIM Moataz 	0	1500	0.00
+12	cherki Mohammed 	0	1500	0.00
+12	TALIUAN oussama 	0	1500	0.00
+12	BERAHMA Hamza 	0	1500	0.00

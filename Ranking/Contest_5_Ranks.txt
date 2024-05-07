@@ -1,0 +1,28 @@
+48
+1	El Hakour Abdessalam 	0	1500	0.00
+1	KAZAY Anas 	0	1500	0.00
+1	El achhab Walid 	0	1500	0.00
+1	BOUBCHER Issam 	0	1500	0.00
+1	Amoussaoui youssef 	0	1500	0.00
+1	Aabkari Ismail 	0	1500	0.00
+1	BOUNAIM Moataz 	0	1500	0.00
+1	BERAHMA Hamza 	0	1500	0.00
+9	Guejaj Mohammed Rayane 	-45245	-99029	0.88
+9	idwy samia 	-45245	-99029	0.88
+11	khald sami 	-86026	-102878	2.61
+12	Koussaimi Abdelali 	-93622	-199029	0.92
+13	Ben El Fakir Oussama 	-106450	-124204	2.81
+14	El Habra Badreddine 	-106538	-116084	3.60
+15	Benkhdra Mehdi 	-108889	-118054	3.69
+16	Lamnaouar Abdelhakim 	-108991	-118165	3.69
+17	Yassir Salama 	-117805	-122856	4.60
+18	Bentayebi Haitam 	-121915	-132176	3.69
+19	Bachiri Mehdi 	-122045	-132317	3.69
+20	Kassimi Mouad 	-139516	-145498	4.60
+21	Riad Solh Ayman 	-144229	-157096	3.61
+22	Laamoum Walae 	-149319	-155722	4.60
+23	Boumhaout Youssef 	-149603	-205374	1.88
+24	cherki Mohammed 	-151439	-163223	3.79
+25	TALIUAN oussama 	-164110	-176880	3.79
+26	Taaloucht Hamza 	-175594	-189258	3.79
+27	Amezzargou Reda 	-184677	-251194	1.92

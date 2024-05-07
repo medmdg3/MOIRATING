@@ -1,0 +1,29 @@
+122
+1	Riad Solh Ayman 	2235	2372	6.12
+2	Yassir Salama 	2122	2137	9.19
+3	Boumhaout Youssef 	1779	1815	7.65
+4	Benkhdra Mehdi 	1723	1902	5.40
+5	cherki Mohammed 	1714	1742	7.92
+6	TALIUAN oussama 	1675	1691	8.66
+7	Kassimi Mouad 	1619	1624	10.19
+8	Lamnaouar Abdelhakim 	1617	1622	10.33
+9	Ben El Fakir Oussama 	1579	1587	9.76
+10	Taaloucht Hamza 	1510	1522	8.90
+11	Bachiri Mehdi 	1453	1461	9.59
+12	idwy samia 	1264	1338	6.16
+13	Laamoum Walae 	1264	1273	9.07
+14	Bentayebi Haitam 	1203	1275	6.14
+15	Outidli Sami 	1068	1167	5.57
+16	khald sami 	1055	1247	4.70
+17	Guejaj Mohammed Rayane 	1024	1138	5.31
+18	Amezzargou Reda 	991	1131	5.01
+19	Koussaimi Abdelali 	940	1404	3.60
+20	El Habra Badreddine 	897	994	5.35
+21	BERAHMA Hamza 	750	1070	3.74
+22	El Hakour Abdessalam 	561	1121	3.00
+22	KAZAY Anas 	561	1121	3.00
+22	El achhab Walid 	561	1121	3.00
+22	BOUBCHER Issam 	561	1121	3.00
+22	Amoussaoui youssef 	561	1121	3.00
+22	Aabkari Ismail 	561	1121	3.00
+22	BOUNAIM Moataz 	561	1121	3.00
